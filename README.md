@@ -1,2 +1,2 @@
-# stegolab
-Notebook for the sci-MI CSMP cybersecurity lab
+
+[https://github.com/mathemonads/stego_codespace](https://github.com/mathemonads/stego_codespace)
